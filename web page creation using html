@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <feild set>
+        <legand>Registration form</legand>
+</head>
+<body> 
+<form>
+<label>username:<label>
+<input type="text">    </input>  <br>
+<label> password: </label>
+<input type= "password">  </input>   <br>
+<label>Gender :</label>
+<input type = "radio">Female</input>   <br>
+<input type = "radio">Male</input>    <br>
+<label>LanguageKnown:</label>
+<input type = "radio">English</input>   <br>
+<input type = "radio">Hindi</input>   <br>
+<input type = "radio">Telugu</input>   <br>
+<label>state:</label>
+<select name = "     " id="s1"   size="1";
+<select><option>TS</option>
+        <option>AP</option>
+        <option>kerala</option>
+</select>     <br>
+<input type = "button" value="login"> </input>
+<button>cancel</button>
+      </feild set>
+</form>
+</body>
+</html>
